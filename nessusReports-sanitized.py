@@ -3,7 +3,7 @@
 # Provided without any support, make changes as needed for your enviornment
 #
 #Derek Hill <derek.hill@hp.com>
-#Syler Clayton <Syler.Clayton@hp.com> & DJ Wiza <David.Wiza@hp.com>
+#Syler Clayton <Syler.Clayton@hp.com> & DJ Wiza <dj.Wiza@hp.com>
 #April 7, 2017
 #usage: nessusReports.py [-h] nessusBaseURL accessKey secretKey outputFolder
 #Performs various actions with the Nessus Cloud API
